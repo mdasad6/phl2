@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "price": 999,
+    "stock": 45,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "price": 1199,
+    "stock": 32,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 1299,
+    "stock": 18,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 399,
+    "stock": 60,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "brand": "Apple",
+    "category": "Tablet",
+    "price": 599,
+    "stock": 27,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0"
+  },
+  { "id": 1781155014202, "name": "asad" }
+]
