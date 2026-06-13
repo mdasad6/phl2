@@ -5,3 +5,4 @@
 03. npx tsc --init               // tsconfig.json come
 04. npm install -D @types/node  // Node.js built in module (node_modules come)
 05. npm i tsx                  // server run
+06. npm i dotenv              // 

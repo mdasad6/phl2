@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "iPhone 15 Pro",
-    "brand": "Apple",
-    "category": "Smartphone",
-    "price": 999,
-    "stock": 45,
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab"
-  },
-  {
     "id": 2,
     "name": "Galaxy S24 Ultra",
     "brand": "Samsung",
@@ -51,3 +41,4 @@
   },
   { "id": 1781155014202, "name": "asad" }
 ]
+    
