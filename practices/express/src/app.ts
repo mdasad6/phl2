@@ -3,12 +3,10 @@ import express, {
   type Request,
   type Response,
 } from "express";
-import config from "./config";
-import { pool } from "./db";
 import { userRoute } from "./modules/user/user.route";
+import { profileRoute } from "./modules/profile/profile.route";
 
 export const app: Application = express();
-const port = config.port;
 
 app.use(express.json()); //middleware json data request accept
 // app.use(express.text()); //middleware text data request accept
@@ -19,3 +17,4 @@ app.get("/", (req: Request, res: Response) => {
 });
 
 app.use("/api/users", userRoute);
+app.use("/api/profile", profileRoute);
