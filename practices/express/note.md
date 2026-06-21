@@ -17,3 +17,5 @@
 08. npm i --save-dev @types/pg
 
 09. npm i dotenv            // 
+
+10. npm i bcryptjs        //
