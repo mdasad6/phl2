@@ -19,3 +19,8 @@
 09. npm i dotenv            // 
 
 10. npm i bcryptjs        //
+
+11. npm i jsonwebtoken  //
+
+12. npm i --save-dev @types/jsonwebtoken
+
